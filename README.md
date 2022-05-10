@@ -1,3 +1,3 @@
 # Emergency_response
 
-1) BERT/CNN/contrastive loss for hurricane emergency tweets identification
+1) Contrastive_bert_harvey.py -->  BERT/CNN/contrastive loss for hurricane emergency tweets identification
